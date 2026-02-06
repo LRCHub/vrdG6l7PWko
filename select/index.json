@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "さよなら王子様",
+  "base_artist": "sympathy",
+  "createdAt": "2026-02-06T15:39:07.306478Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよなら王子様",
+      "artist": "sympathy",
+      "has_synced": false,
+      "path": "select/pl_01_さよなら王子様_sympathy.txt"
+    }
+  ]
+}
